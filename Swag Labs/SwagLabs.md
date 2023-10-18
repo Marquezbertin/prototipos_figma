@@ -16,7 +16,7 @@ Neste repositório, você encontrará:
 
 ### Versão Personalizada
 
-![Versão Personalizada](screenshots/personalizado.png)
+[Versão Personalizada](https://www.figma.com/file/dnAdpZ7HfQMvHSr0qA7y7O/Swag-Labs-Personalizado?type=design&node-id=0%3A1&mode=design&t=rKiIkzpjvRbqOuo3-1)
 
 ## Como Usar
 
