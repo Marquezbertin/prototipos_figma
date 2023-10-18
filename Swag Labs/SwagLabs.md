@@ -12,7 +12,7 @@ Neste repositório, você encontrará:
 
 ### Protótipo Swag Labs
 
-![Protótipo Swag Labs](screenshots/prototipo.png)
+[Protótipo Swag Labs](https://www.figma.com/file/nKAwVUibDfnnbi8WAUGIA9/Swag-Labs?type=design&node-id=0%3A1&mode=design&t=VwZjMN42tGsLyCSc-1)
 
 ### Versão Personalizada
 
